@@ -1,0 +1,118 @@
+[10-May-2025 13:06:16 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on bool in C:\xampp\htdocs\Latihan-Web\seo-optimation\product\app\models\Settings.php:33
+Stack trace:
+#0 C:\xampp\htdocs\Latihan-Web\seo-optimation\product\app\core\Settings.php(26): Altum\Models\Settings->get()
+#1 C:\xampp\htdocs\Latihan-Web\seo-optimation\product\app\helpers\core.php(21): Altum\Settings::initialize()
+#2 C:\xampp\htdocs\Latihan-Web\seo-optimation\product\app\core\Language.php(60): settings()
+#3 C:\xampp\htdocs\Latihan-Web\seo-optimation\product\app\core\App.php(38): Altum\Language::initialize()
+#4 C:\xampp\htdocs\Latihan-Web\seo-optimation\product\index.php(22): Altum\App->__construct()
+#5 {main}
+  thrown in C:\xampp\htdocs\Latihan-Web\seo-optimation\product\app\models\Settings.php on line 33
+[10-May-2025 13:06:40 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on bool in C:\xampp\htdocs\Latihan-Web\seo-optimation\product\app\models\Settings.php:33
+Stack trace:
+#0 C:\xampp\htdocs\Latihan-Web\seo-optimation\product\app\core\Settings.php(26): Altum\Models\Settings->get()
+#1 C:\xampp\htdocs\Latihan-Web\seo-optimation\product\app\helpers\core.php(21): Altum\Settings::initialize()
+#2 C:\xampp\htdocs\Latihan-Web\seo-optimation\product\app\core\Language.php(60): settings()
+#3 C:\xampp\htdocs\Latihan-Web\seo-optimation\product\app\core\App.php(38): Altum\Language::initialize()
+#4 C:\xampp\htdocs\Latihan-Web\seo-optimation\product\index.php(22): Altum\App->__construct()
+#5 {main}
+  thrown in C:\xampp\htdocs\Latihan-Web\seo-optimation\product\app\models\Settings.php on line 33
+[10-May-2025 13:06:54 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on bool in C:\xampp\htdocs\Latihan-Web\seo-optimation\product\app\models\Settings.php:33
+Stack trace:
+#0 C:\xampp\htdocs\Latihan-Web\seo-optimation\product\app\core\Settings.php(26): Altum\Models\Settings->get()
+#1 C:\xampp\htdocs\Latihan-Web\seo-optimation\product\app\helpers\core.php(21): Altum\Settings::initialize()
+#2 C:\xampp\htdocs\Latihan-Web\seo-optimation\product\app\core\Language.php(60): settings()
+#3 C:\xampp\htdocs\Latihan-Web\seo-optimation\product\app\core\App.php(38): Altum\Language::initialize()
+#4 C:\xampp\htdocs\Latihan-Web\seo-optimation\product\index.php(22): Altum\App->__construct()
+#5 {main}
+  thrown in C:\xampp\htdocs\Latihan-Web\seo-optimation\product\app\models\Settings.php on line 33
+[10-May-2025 11:07:44 UTC] PHP Warning:  Undefined property: stdClass::$x_is_enabled in C:\xampp\htdocs\Latihan-Web\seo-optimation\product\app\includes\notification_handlers.php on line 22
+[10-May-2025 11:07:44 UTC] PHP Warning:  Undefined property: stdClass::$white_labeling_is_enabled in C:\xampp\htdocs\Latihan-Web\seo-optimation\product\themes\altum\views\partials\plans_plan_content.php on line 145
+[10-May-2025 11:07:44 UTC] PHP Warning:  Undefined property: stdClass::$x_is_enabled in C:\xampp\htdocs\Latihan-Web\seo-optimation\product\app\includes\notification_handlers.php on line 22
+[10-May-2025 11:07:44 UTC] PHP Warning:  Undefined property: stdClass::$white_labeling_is_enabled in C:\xampp\htdocs\Latihan-Web\seo-optimation\product\themes\altum\views\partials\plans_plan_content.php on line 145
+[10-May-2025 11:07:44 UTC] PHP Warning:  Undefined property: stdClass::$x_is_enabled in C:\xampp\htdocs\Latihan-Web\seo-optimation\product\app\includes\notification_handlers.php on line 22
+[10-May-2025 11:07:48 UTC] PHP Warning:  Undefined property: stdClass::$x_is_enabled in C:\xampp\htdocs\Latihan-Web\seo-optimation\product\app\includes\notification_handlers.php on line 22
+[10-May-2025 11:07:48 UTC] PHP Warning:  Undefined property: stdClass::$white_labeling_is_enabled in C:\xampp\htdocs\Latihan-Web\seo-optimation\product\themes\altum\views\partials\plans_plan_content.php on line 145
+[10-May-2025 11:07:48 UTC] PHP Warning:  Undefined property: stdClass::$x_is_enabled in C:\xampp\htdocs\Latihan-Web\seo-optimation\product\app\includes\notification_handlers.php on line 22
+[10-May-2025 11:07:48 UTC] PHP Warning:  Undefined property: stdClass::$white_labeling_is_enabled in C:\xampp\htdocs\Latihan-Web\seo-optimation\product\themes\altum\views\partials\plans_plan_content.php on line 145
+[10-May-2025 11:07:48 UTC] PHP Warning:  Undefined property: stdClass::$x_is_enabled in C:\xampp\htdocs\Latihan-Web\seo-optimation\product\app\includes\notification_handlers.php on line 22
+[10-May-2025 11:09:55 UTC] PHP Warning:  Undefined property: stdClass::$x_is_enabled in C:\xampp\htdocs\Latihan-Web\seo-optimation\product\app\includes\notification_handlers.php on line 22
+[10-May-2025 11:09:55 UTC] PHP Warning:  Undefined property: stdClass::$white_labeling_is_enabled in C:\xampp\htdocs\Latihan-Web\seo-optimation\product\themes\altum\views\partials\plans_plan_content.php on line 145
+[10-May-2025 11:09:55 UTC] PHP Warning:  Undefined property: stdClass::$x_is_enabled in C:\xampp\htdocs\Latihan-Web\seo-optimation\product\app\includes\notification_handlers.php on line 22
+[10-May-2025 11:09:55 UTC] PHP Warning:  Undefined property: stdClass::$white_labeling_is_enabled in C:\xampp\htdocs\Latihan-Web\seo-optimation\product\themes\altum\views\partials\plans_plan_content.php on line 145
+[10-May-2025 11:09:55 UTC] PHP Warning:  Undefined property: stdClass::$x_is_enabled in C:\xampp\htdocs\Latihan-Web\seo-optimation\product\app\includes\notification_handlers.php on line 22
+[10-May-2025 11:10:24 UTC] PHP Warning:  Undefined property: stdClass::$x_is_enabled in C:\xampp\htdocs\Latihan-Web\seo-optimation\product\app\includes\notification_handlers.php on line 22
+[10-May-2025 11:10:24 UTC] PHP Warning:  Undefined property: stdClass::$white_labeling_is_enabled in C:\xampp\htdocs\Latihan-Web\seo-optimation\product\themes\altum\views\partials\plans_plan_content.php on line 145
+[10-May-2025 11:10:24 UTC] PHP Warning:  Undefined property: stdClass::$x_is_enabled in C:\xampp\htdocs\Latihan-Web\seo-optimation\product\app\includes\notification_handlers.php on line 22
+[10-May-2025 11:10:24 UTC] PHP Warning:  Undefined property: stdClass::$white_labeling_is_enabled in C:\xampp\htdocs\Latihan-Web\seo-optimation\product\themes\altum\views\partials\plans_plan_content.php on line 145
+[10-May-2025 11:10:24 UTC] PHP Warning:  Undefined property: stdClass::$x_is_enabled in C:\xampp\htdocs\Latihan-Web\seo-optimation\product\app\includes\notification_handlers.php on line 22
+[10-May-2025 11:11:08 UTC] PHP Warning:  Undefined property: stdClass::$x_is_enabled in C:\xampp\htdocs\Latihan-Web\seo-optimation\product\app\includes\notification_handlers.php on line 22
+[10-May-2025 11:11:08 UTC] PHP Warning:  Undefined property: stdClass::$white_labeling_is_enabled in C:\xampp\htdocs\Latihan-Web\seo-optimation\product\themes\altum\views\partials\plans_plan_content.php on line 145
+[10-May-2025 11:11:08 UTC] PHP Warning:  Undefined property: stdClass::$x_is_enabled in C:\xampp\htdocs\Latihan-Web\seo-optimation\product\app\includes\notification_handlers.php on line 22
+[10-May-2025 11:11:08 UTC] PHP Warning:  Undefined property: stdClass::$white_labeling_is_enabled in C:\xampp\htdocs\Latihan-Web\seo-optimation\product\themes\altum\views\partials\plans_plan_content.php on line 145
+[10-May-2025 11:11:08 UTC] PHP Warning:  Undefined property: stdClass::$x_is_enabled in C:\xampp\htdocs\Latihan-Web\seo-optimation\product\app\includes\notification_handlers.php on line 22
+[10-May-2025 11:11:45 UTC] PHP Warning:  Undefined property: stdClass::$x_is_enabled in C:\xampp\htdocs\Latihan-Web\seo-optimation\product\app\includes\notification_handlers.php on line 22
+[10-May-2025 11:11:45 UTC] PHP Warning:  Undefined property: stdClass::$white_labeling_is_enabled in C:\xampp\htdocs\Latihan-Web\seo-optimation\product\themes\altum\views\partials\plans_plan_content.php on line 145
+[10-May-2025 11:11:45 UTC] PHP Warning:  Undefined property: stdClass::$x_is_enabled in C:\xampp\htdocs\Latihan-Web\seo-optimation\product\app\includes\notification_handlers.php on line 22
+[10-May-2025 11:11:45 UTC] PHP Warning:  Undefined property: stdClass::$white_labeling_is_enabled in C:\xampp\htdocs\Latihan-Web\seo-optimation\product\themes\altum\views\partials\plans_plan_content.php on line 145
+[10-May-2025 11:11:45 UTC] PHP Warning:  Undefined property: stdClass::$x_is_enabled in C:\xampp\htdocs\Latihan-Web\seo-optimation\product\app\includes\notification_handlers.php on line 22
+[10-May-2025 11:11:49 UTC] PHP Warning:  Undefined property: stdClass::$x_is_enabled in C:\xampp\htdocs\Latihan-Web\seo-optimation\product\app\includes\notification_handlers.php on line 22
+[10-May-2025 11:11:49 UTC] PHP Warning:  Undefined property: stdClass::$white_labeling_is_enabled in C:\xampp\htdocs\Latihan-Web\seo-optimation\product\themes\altum\views\partials\plans_plan_content.php on line 145
+[10-May-2025 11:11:49 UTC] PHP Warning:  Undefined property: stdClass::$x_is_enabled in C:\xampp\htdocs\Latihan-Web\seo-optimation\product\app\includes\notification_handlers.php on line 22
+[10-May-2025 11:11:49 UTC] PHP Warning:  Undefined property: stdClass::$white_labeling_is_enabled in C:\xampp\htdocs\Latihan-Web\seo-optimation\product\themes\altum\views\partials\plans_plan_content.php on line 145
+[10-May-2025 11:11:49 UTC] PHP Warning:  Undefined property: stdClass::$x_is_enabled in C:\xampp\htdocs\Latihan-Web\seo-optimation\product\app\includes\notification_handlers.php on line 22
+[10-May-2025 11:11:53 UTC] PHP Warning:  Undefined property: stdClass::$x_is_enabled in C:\xampp\htdocs\Latihan-Web\seo-optimation\product\app\includes\notification_handlers.php on line 22
+[10-May-2025 11:11:53 UTC] PHP Warning:  Undefined property: stdClass::$white_labeling_is_enabled in C:\xampp\htdocs\Latihan-Web\seo-optimation\product\themes\altum\views\partials\plans_plan_content.php on line 145
+[10-May-2025 11:11:53 UTC] PHP Warning:  Undefined property: stdClass::$x_is_enabled in C:\xampp\htdocs\Latihan-Web\seo-optimation\product\app\includes\notification_handlers.php on line 22
+[10-May-2025 11:11:53 UTC] PHP Warning:  Undefined property: stdClass::$white_labeling_is_enabled in C:\xampp\htdocs\Latihan-Web\seo-optimation\product\themes\altum\views\partials\plans_plan_content.php on line 145
+[10-May-2025 11:11:53 UTC] PHP Warning:  Undefined property: stdClass::$x_is_enabled in C:\xampp\htdocs\Latihan-Web\seo-optimation\product\app\includes\notification_handlers.php on line 22
+[10-May-2025 11:12:02 UTC] PHP Warning:  Undefined property: stdClass::$white_labeling_is_enabled in C:\xampp\htdocs\Latihan-Web\seo-optimation\product\app\core\App.php on line 188
+[10-May-2025 11:12:04 UTC] PHP Warning:  Undefined property: stdClass::$white_labeling_is_enabled in C:\xampp\htdocs\Latihan-Web\seo-optimation\product\app\core\App.php on line 188
+[10-May-2025 11:12:22 UTC] PHP Warning:  Undefined property: stdClass::$white_labeling_is_enabled in C:\xampp\htdocs\Latihan-Web\seo-optimation\product\app\core\App.php on line 188
+[10-May-2025 11:12:23 UTC] PHP Warning:  Undefined property: stdClass::$white_labeling_is_enabled in C:\xampp\htdocs\Latihan-Web\seo-optimation\product\app\core\App.php on line 188
+[10-May-2025 11:12:23 UTC] PHP Warning:  Undefined property: stdClass::$white_labeling_is_enabled in C:\xampp\htdocs\Latihan-Web\seo-optimation\product\themes\altum\views\admin\settings\partials\main.php on line 87
+[10-May-2025 11:12:27 UTC] PHP Warning:  Undefined property: stdClass::$white_labeling_is_enabled in C:\xampp\htdocs\Latihan-Web\seo-optimation\product\app\core\App.php on line 188
+[10-May-2025 11:14:03 UTC] PHP Warning:  Undefined property: stdClass::$white_labeling_is_enabled in C:\xampp\htdocs\Latihan-Web\seo-optimation\product\app\core\App.php on line 188
+[10-May-2025 11:14:11 UTC] PHP Warning:  Undefined property: stdClass::$white_labeling_is_enabled in C:\xampp\htdocs\Latihan-Web\seo-optimation\product\app\core\App.php on line 188
+[10-May-2025 11:14:19 UTC] PHP Warning:  Undefined property: stdClass::$white_labeling_is_enabled in C:\xampp\htdocs\Latihan-Web\seo-optimation\product\app\core\App.php on line 188
+[10-May-2025 11:14:19 UTC] PHP Warning:  Undefined property: stdClass::$accept_encoding in C:\xampp\htdocs\Latihan-Web\seo-optimation\product\themes\altum\views\admin\settings\partials\audits.php on line 11
+[10-May-2025 11:14:24 UTC] PHP Warning:  Undefined property: stdClass::$white_labeling_is_enabled in C:\xampp\htdocs\Latihan-Web\seo-optimation\product\app\core\App.php on line 188
+[10-May-2025 11:14:24 UTC] PHP Warning:  Attempt to read property "domains_default_order_by" on null in C:\xampp\htdocs\Latihan-Web\seo-optimation\product\app\controllers\admin\AdminDomains.php on line 30
+[10-May-2025 11:14:30 UTC] PHP Warning:  Undefined property: stdClass::$white_labeling_is_enabled in C:\xampp\htdocs\Latihan-Web\seo-optimation\product\app\core\App.php on line 188
+[10-May-2025 11:15:13 UTC] PHP Warning:  Undefined property: stdClass::$white_labeling_is_enabled in C:\xampp\htdocs\Latihan-Web\seo-optimation\product\app\core\App.php on line 188
+[10-May-2025 11:15:28 UTC] PHP Warning:  Undefined property: stdClass::$white_labeling_is_enabled in C:\xampp\htdocs\Latihan-Web\seo-optimation\product\app\core\App.php on line 188
+[10-May-2025 11:15:51 UTC] PHP Warning:  Undefined property: stdClass::$white_labeling_is_enabled in C:\xampp\htdocs\Latihan-Web\seo-optimation\product\app\core\App.php on line 188
+[10-May-2025 11:15:56 UTC] PHP Warning:  Undefined property: stdClass::$white_labeling_is_enabled in C:\xampp\htdocs\Latihan-Web\seo-optimation\product\app\core\App.php on line 188
+[10-May-2025 11:15:56 UTC] PHP Warning:  Undefined property: stdClass::$x_is_enabled in C:\xampp\htdocs\Latihan-Web\seo-optimation\product\app\includes\notification_handlers.php on line 22
+[10-May-2025 11:15:56 UTC] PHP Warning:  Undefined property: stdClass::$white_labeling_is_enabled in C:\xampp\htdocs\Latihan-Web\seo-optimation\product\themes\altum\views\admin\user-update\index.php on line 199
+[10-May-2025 11:16:00 UTC] PHP Warning:  Undefined property: stdClass::$white_labeling_is_enabled in C:\xampp\htdocs\Latihan-Web\seo-optimation\product\app\core\App.php on line 188
+[10-May-2025 11:16:34 UTC] PHP Warning:  Undefined property: stdClass::$white_labeling_is_enabled in C:\xampp\htdocs\Latihan-Web\seo-optimation\product\app\core\App.php on line 188
+[10-May-2025 11:16:38 UTC] PHP Warning:  Undefined property: stdClass::$white_labeling_is_enabled in C:\xampp\htdocs\Latihan-Web\seo-optimation\product\app\core\App.php on line 188
+[10-May-2025 11:16:38 UTC] PHP Warning:  Undefined property: stdClass::$white_labeling_is_enabled in C:\xampp\htdocs\Latihan-Web\seo-optimation\product\app\core\App.php on line 188
+[10-May-2025 11:16:38 UTC] PHP Warning:  Undefined property: stdClass::$white_labeling_is_enabled in C:\xampp\htdocs\Latihan-Web\seo-optimation\product\themes\altum\views\admin\settings\partials\main.php on line 87
+[10-May-2025 11:16:46 UTC] PHP Warning:  Undefined property: stdClass::$white_labeling_is_enabled in C:\xampp\htdocs\Latihan-Web\seo-optimation\product\app\core\App.php on line 188
+[10-May-2025 11:17:02 UTC] PHP Warning:  Undefined property: stdClass::$white_labeling_is_enabled in C:\xampp\htdocs\Latihan-Web\seo-optimation\product\app\core\App.php on line 188
+[10-May-2025 11:17:21 UTC] PHP Warning:  Undefined property: stdClass::$white_labeling_is_enabled in C:\xampp\htdocs\Latihan-Web\seo-optimation\product\app\core\App.php on line 188
+[10-May-2025 11:17:21 UTC] PHP Warning:  Attempt to read property "websites_default_order_by" on null in C:\xampp\htdocs\Latihan-Web\seo-optimation\product\app\controllers\admin\AdminWebsites.php on line 29
+[10-May-2025 11:17:26 UTC] PHP Warning:  Undefined property: stdClass::$white_labeling_is_enabled in C:\xampp\htdocs\Latihan-Web\seo-optimation\product\app\core\App.php on line 188
+[10-May-2025 11:18:47 UTC] PHP Warning:  Undefined property: stdClass::$white_labeling_is_enabled in C:\xampp\htdocs\Latihan-Web\seo-optimation\product\app\core\App.php on line 188
+[10-May-2025 11:21:28 UTC] PHP Warning:  Undefined property: stdClass::$white_labeling_is_enabled in C:\xampp\htdocs\Latihan-Web\seo-optimation\product\app\core\App.php on line 188
+[10-May-2025 11:22:09 UTC] PHP Warning:  Undefined property: stdClass::$white_labeling_is_enabled in C:\xampp\htdocs\Latihan-Web\seo-optimation\product\app\core\App.php on line 188
+[10-May-2025 11:22:19 UTC] PHP Warning:  Undefined property: stdClass::$white_labeling_is_enabled in C:\xampp\htdocs\Latihan-Web\seo-optimation\product\app\core\App.php on line 188
+[10-May-2025 11:22:28 UTC] PHP Warning:  Undefined property: stdClass::$white_labeling_is_enabled in C:\xampp\htdocs\Latihan-Web\seo-optimation\product\app\core\App.php on line 188
+[10-May-2025 11:22:36 UTC] PHP Warning:  Undefined property: stdClass::$white_labeling_is_enabled in C:\xampp\htdocs\Latihan-Web\seo-optimation\product\app\core\App.php on line 188
+[10-May-2025 11:22:43 UTC] PHP Warning:  Undefined property: stdClass::$white_labeling_is_enabled in C:\xampp\htdocs\Latihan-Web\seo-optimation\product\app\core\App.php on line 188
+[10-May-2025 11:34:48 UTC] PHP Warning:  Undefined property: stdClass::$white_labeling_is_enabled in C:\xampp\htdocs\Latihan-Web\seo-optimation\product\app\core\App.php on line 188
+[10-May-2025 11:34:48 UTC] PHP Warning:  Undefined property: stdClass::$x_is_enabled in C:\xampp\htdocs\Latihan-Web\seo-optimation\product\app\includes\notification_handlers.php on line 22
+[10-May-2025 11:34:48 UTC] PHP Warning:  Undefined property: stdClass::$white_labeling_is_enabled in C:\xampp\htdocs\Latihan-Web\seo-optimation\product\themes\altum\views\partials\plans_plan_content.php on line 145
+[10-May-2025 11:34:48 UTC] PHP Warning:  Undefined property: stdClass::$x_is_enabled in C:\xampp\htdocs\Latihan-Web\seo-optimation\product\app\includes\notification_handlers.php on line 22
+[10-May-2025 11:34:48 UTC] PHP Warning:  Undefined property: stdClass::$white_labeling_is_enabled in C:\xampp\htdocs\Latihan-Web\seo-optimation\product\themes\altum\views\partials\plans_plan_content.php on line 145
+[10-May-2025 11:34:48 UTC] PHP Warning:  Undefined property: stdClass::$x_is_enabled in C:\xampp\htdocs\Latihan-Web\seo-optimation\product\app\includes\notification_handlers.php on line 22
+[10-May-2025 11:34:51 UTC] PHP Warning:  Undefined property: stdClass::$white_labeling_is_enabled in C:\xampp\htdocs\Latihan-Web\seo-optimation\product\app\core\App.php on line 188
+[10-May-2025 11:34:58 UTC] PHP Warning:  Undefined property: stdClass::$white_labeling_is_enabled in C:\xampp\htdocs\Latihan-Web\seo-optimation\product\app\core\App.php on line 188
+[10-May-2025 11:34:59 UTC] PHP Warning:  Undefined array key "twofa_is_enabled" in C:\xampp\htdocs\Latihan-Web\seo-optimation\product\themes\altum\views\account\index.php on line 226
+[10-May-2025 11:34:59 UTC] PHP Warning:  Undefined array key "twofa_is_enabled" in C:\xampp\htdocs\Latihan-Web\seo-optimation\product\themes\altum\views\account\index.php on line 227
+[10-May-2025 11:35:01 UTC] PHP Warning:  Undefined property: stdClass::$white_labeling_is_enabled in C:\xampp\htdocs\Latihan-Web\seo-optimation\product\app\core\App.php on line 188
+[10-May-2025 11:35:05 UTC] PHP Warning:  Undefined property: stdClass::$white_labeling_is_enabled in C:\xampp\htdocs\Latihan-Web\seo-optimation\product\app\core\App.php on line 188
+[10-May-2025 11:35:10 UTC] PHP Warning:  Undefined property: stdClass::$white_labeling_is_enabled in C:\xampp\htdocs\Latihan-Web\seo-optimation\product\app\core\App.php on line 188
+[10-May-2025 11:35:10 UTC] PHP Warning:  Undefined property: stdClass::$white_labeling_is_enabled in C:\xampp\htdocs\Latihan-Web\seo-optimation\product\app\core\App.php on line 188
+[10-May-2025 11:35:10 UTC] PHP Warning:  Undefined property: stdClass::$white_labeling_is_enabled in C:\xampp\htdocs\Latihan-Web\seo-optimation\product\themes\altum\views\admin\settings\partials\main.php on line 87

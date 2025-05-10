@@ -1,0 +1,4 @@
+# semua file yang berekstensi .mmdb
+*.mmdb
+# semua file yang berekstensi .log
+*.log

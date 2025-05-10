@@ -1,0 +1,1 @@
+a:6:{s:1:"k";s:11:"index_stats";s:1:"d";a:2:{s:14:"total_websites";i:0;s:12:"total_audits";i:0;}s:1:"g";a:0:{}s:1:"e";O:8:"DateTime":3:{s:4:"date";s:26:"2025-05-10 12:07:44.859815";s:13:"timezone_type";i:3;s:8:"timezone";s:3:"UTC";}s:1:"m";N;s:1:"c";N;}

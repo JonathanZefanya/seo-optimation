@@ -1,0 +1,1 @@
+a:6:{s:1:"k";s:24:"websites_total?user_id=1";s:1:"d";i:0;s:1:"g";a:1:{i:0;s:9:"user_id=1";}s:1:"e";O:8:"DateTime":3:{s:4:"date";s:26:"2025-06-09 11:12:02.115540";s:13:"timezone_type";i:3;s:8:"timezone";s:3:"UTC";}s:1:"m";N;s:1:"c";N;}
