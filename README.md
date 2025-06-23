@@ -41,4 +41,4 @@ A comprehensive SEO optimization project.  Further details about its functionali
 
 ## License
 
-[ComingSoon](https://github.com/JonathanZefanya/seo-optimation/blob/main/LICENSE)
+[Here](https://github.com/JonathanZefanya/seo-optimation/blob/main/LICENSE)
